@@ -25,7 +25,7 @@ Research Papers
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
       <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S2210670724002944">[4] Revealing the injustice and factors that affect the resilience responses of residents in the full period of heat waves</a></div>
-      <div class="author">Qi Cheng, <strong>Shiyan Sha(Corresponding Author)</strong></div>
+      <div class="author">Qi Cheng</strong>, <strong>Shiyan Sha(Corresponding Author)</strong></div>
       <div class="periodical"><em><strong>(Sustainable Cities and Society)</strong>, Volume 107, 15 July 2024, 105467.</em></div>
       <div class="links">
         <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
