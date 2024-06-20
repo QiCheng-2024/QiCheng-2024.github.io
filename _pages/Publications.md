@@ -44,7 +44,7 @@ Research Papers
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
       <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0143622824000961">[5] Resisting the heat wave: Revealing inequalities in matching between heat exposure risk and healthcare services in a megacity</a></div>
-      <div class="author">Qi Cheng, <strong>Shiyan Sha(Corresponding Author)</strong></div>
+      <div class="author"><strong>Qi Cheng</strong>, Shiyan Sha(Corresponding Author)</div>
       <div class="periodical"><em><strong>(Applied Geography)</strong>, Volume 167, June 2024, 103291.</em></div>
       <div class="links">
         <a href="https://www.sciencedirect.com/journal/applied-geography" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
@@ -63,7 +63,7 @@ Research Papers
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
       <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0143622823002187">[6] Revealing the heterogeneity of social capital in shrinking cities from a social infrastructure perspective: Evidence from Hegang, China</a></div>
-      <div class="author">Qi Cheng, <strong>Shiyan Sha(Corresponding Author)</strong>, Wen Cheng</div>
+      <div class="author"><strong>Qi Cheng</strong>, Shiyan Sha(Corresponding Author), Wen Cheng</div>
       <div class="periodical"><em><strong>(Applied Geography)</strong>, Volume 159, October 2023, 103087.</em></div>
       <div class="links">
         <a href="https://www.sciencedirect.com/journal/applied-geography" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
@@ -82,7 +82,7 @@ Research Papers
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
       <div class="title"><a href="">[7] Last defense in climate change: Assessing healthcare inequities in response to compound environmental risk in a megacity in Northern China</a></div>
-      <div class="author">Qi Cheng, <strong>Shiyan Sha(Co-first/Corresponding Author)</strong></div>
+      <div class="author">Shiyan Sha, <strong>Qi Cheng</strong>, Ming Lu</div>
       <div class="periodical"><em><strong>(Sustainable Cities and Society)</strong>, Under Review.</em></div>
       <div class="links">
         <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
@@ -101,7 +101,7 @@ Research Papers
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
       <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0197397523002515">[1] Building a “reservoir of social resilience:” A strategy for social infrastructure regeneration in shrinking cities based on social network analysis</a></div>
-      <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng, Ming Lu(Corresponding Author)</div>
+       <div class="author">Shiyan Sha, <strong>Qi Cheng(Corresponding Author)</strong></div>
       <div class="periodical"><em><strong>(Habitat International)</strong>, Volume 143, January 2024, 102991.</em></div>
       <div class="links">
         <a href="https://www.sciencedirect.com/journal/habitat-international" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
@@ -120,7 +120,7 @@ Research Papers
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
       <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1618866724000657">[2] Built or Social environment? Effects of perceptions of neighborhood green spaces on resilience of residents to heat waves</a></div>
-      <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng(Corresponding Author)</div>
+      <div class="author"><strong>Shiyan Sha</strong>, <strong>Qi Cheng(Corresponding Author)</strong></div>
       <div class="periodical"><em><strong>(Urban Forestry & Urban Greening)</strong>, Volume 94, April 2024, 128267.</em></div>
       <div class="links">
         <a href="https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
@@ -139,7 +139,7 @@ Research Papers
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
       <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1618866724001730">[3] Determining the effects of green space usage on health inequalities among residents of shrinking cities based on a social capital perspective</a></div>
-      <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng(Corresponding Author)</div>
+      <div class="author"><strong>Shiyan Sha</strong>, <strong>Qi Cheng(Corresponding Author)</strong></div>
       <div class="periodical"><em><strong>(Urban Forestry & Urban Greening)</strong>, Volume 97, July 2024, 128375.</em></div>
       <div class="links">
         <a href="https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
