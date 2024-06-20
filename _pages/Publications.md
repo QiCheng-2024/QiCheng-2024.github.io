@@ -101,7 +101,7 @@ Research Papers
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
       <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1618866724000657">[5] Built or Social environment? Effects of perceptions of neighborhood green spaces on resilience of residents to heat waves</a></div>
-      <div class="author"><strong>Shiyan Sha</strong>, <strong>Qi Cheng(Corresponding Author)</strong></div>
+      <div class="author">Shiyan Sha, <strong>Qi Cheng(Corresponding Author)</strong></div>
       <div class="periodical"><em><strong>(Urban Forestry & Urban Greening)</strong>, Volume 94, April 2024, 128267.</em></div>
       <div class="links">
         <a href="https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
@@ -139,7 +139,7 @@ Research Papers
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
       <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1618866724001730">[7] Determining the effects of green space usage on health inequalities among residents of shrinking cities based on a social capital perspective</a></div>
-      <div class="author"><strong>Shiyan Sha</strong>, <strong>Qi Cheng(Corresponding Author)</strong></div>
+      <div class="author">Shiyan Sha, <strong>Qi Cheng(Corresponding Author)</strong></div>
       <div class="periodical"><em><strong>(Urban Forestry & Urban Greening)</strong>, Volume 97, July 2024, 128375.</em></div>
       <div class="links">
         <a href="https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
