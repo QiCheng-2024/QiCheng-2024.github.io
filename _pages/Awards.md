@@ -74,7 +74,7 @@ During my undergraduate and graduate studies, I participated in multiple competi
       <div class="title"><a href="/images/wupeni.png"><strong> WUPENICITY 2020 International Competition on Urban Sustainability Reports</strong></a></div>
     </div> 
       <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-      <i>这项竞赛。。。</i>
+      <i>In the context of public health emergencies, investing in community social infrastructure is crucial for enhancing community resilience. The COVID-19 pandemic has highlighted heightened functional demands and responsiveness challenges for historical community social infrastructure. This study examines the current layout and service capacity of various social infrastructures, assessing how well they meet residents' needs during public health crises and their role in risk mitigation. Key findings include: (1) Overall, social infrastructure in historical communities is oversupplied yet lacks adequate service responsiveness. (2) A comprehensive comparative analysis reveals that differences in residents' age-specific living habits, behaviors, and physical attributes significantly influence their demand for different facilities. (3) Demand for social infrastructure varies significantly across communities of different social compositions, highlighting mismatches between current facility states and actual needs, influenced by the evolving social structure's impact on community space utilization.</i>
     </div>
     <strong><i style="color:#c02c38">Nomination Award</i></strong>
     <div class="author"><strong>Qi Cheng</strong>, et al.</div>
