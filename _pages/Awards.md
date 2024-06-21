@@ -76,7 +76,7 @@ During my undergraduate and graduate studies, I participated in multiple competi
       <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
       <i>这项竞赛。。。</i>
     </div>
-    <strong><i style="color:#c02c38">NOMINATION AWARD</i></strong>
+    <strong><i style="color:#c02c38">Nomination AWARD</i></strong>
     <div class="author"><strong>Qi Cheng</strong>, et al.</div>
     <strong><i style="color:#7b5aa6">Nov 2020</i></strong>
   </div>
@@ -90,18 +90,18 @@ During my undergraduate and graduate studies, I participated in multiple competi
 
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="flex: 0 0 300px; margin-right: 40px; padding-left: 0;">
-    <img src="/files/wupeni1.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+    <img src="/files/yuanlin1.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="/images/wupeni.png"><strong> WUPENICITY 2020 INTERNATIONAL COMPETITION ON URBAN SUSTAINABILITY REPORTS</strong></a></div>
+      <div class="title"><a href="/images/yuanlin.png"><strong> 2022 China International Landscape Planning and Design Competition</strong></a></div>
     </div> 
       <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
       <i>这项竞赛。。。</i>
     </div>
-    <strong><i style="color:#c02c38">NOMINATION AWARD</i></strong>
+    <strong><i style="color:#c02c38">Gold Award</i></strong>
     <div class="author"><strong>Qi Cheng</strong>, et al.</div>
-    <strong><i style="color:#7b5aa6">Nov 2020</i></strong>
+    <strong><i style="color:#7b5aa6">Otc 2022</i></strong>
   </div>
 </div>
 ---
@@ -113,18 +113,18 @@ During my undergraduate and graduate studies, I participated in multiple competi
 
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="flex: 0 0 300px; margin-right: 40px; padding-left: 0;">
-    <img src="/files/wupeni1.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+    <img src="/files/aijing1.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="/images/wupeni.png"><strong> WUPENICITY 2020 INTERNATIONAL COMPETITION ON URBAN SUSTAINABILITY REPORTS</strong></a></div>
+      <div class="title"><a href="/images/aijing.png"><strong> WUPENICITY 2020 INTERNATIONAL COMPETITION ON URBAN SUSTAINABILITY REPORTS</strong></a></div>
     </div> 
       <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
       <i>这项竞赛。。。</i>
     </div>
-    <strong><i style="color:#c02c38">NOMINATION AWARD</i></strong>
+    <strong><i style="color:#c02c38">Gold Award</i></strong>
     <div class="author"><strong>Qi Cheng</strong>, et al.</div>
-    <strong><i style="color:#7b5aa6">Nov 2020</i></strong>
+    <strong><i style="color:#7b5aa6">Dec 2020</i></strong>
   </div>
 </div>
 ---
