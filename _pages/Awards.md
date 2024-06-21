@@ -83,11 +83,6 @@ During my undergraduate and graduate studies, I participated in multiple competi
 </div>
 ---
 
-<div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-During my undergraduate and graduate studies, I participated in multiple competitions and won several important awards. These design achievements have fostered thoughtful consideration of my future research.
- </div>
----
-
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="flex: 0 0 300px; margin-right: 40px; padding-left: 0;">
     <img src="/files/yuanlin1.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
@@ -97,18 +92,13 @@ During my undergraduate and graduate studies, I participated in multiple competi
       <div class="title"><a href="/images/yuanlin.png"><strong> 2022 China International Landscape Planning and Design Competition</strong></a></div>
     </div> 
       <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-      <i>这项竞赛。。。</i>
+      <i>This project takes Tanggu South Station in Binhai New Area, Tianjin as a case study, employing smart programs and quantitative data processing methods to achieve an innovative model of urban design and new ideas for future development. By utilizing the Analytic Hierarchy Process (AHP) to determine factor proportions, applying intelligent renewal programs, and realizing four major visions—transport connectivity in the area, multicultural inclusivity, ecological resilience repair, and sustained community vitality—this project provides a comprehensive and sustainable development direction for the future of urban design.</i>
     </div>
     <strong><i style="color:#c02c38">Gold Award</i></strong>
     <div class="author"><strong>Qi Cheng</strong>, et al.</div>
     <strong><i style="color:#7b5aa6">Otc 2022</i></strong>
   </div>
 </div>
----
-
-<div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-During my undergraduate and graduate studies, I participated in multiple competitions and won several important awards. These design achievements have fostered thoughtful consideration of my future research.
- </div>
 ---
 
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
@@ -120,7 +110,7 @@ During my undergraduate and graduate studies, I participated in multiple competi
       <div class="title"><a href="/images/aijing.png"><strong> The 10th IDEA-KING International Landscape Planning and Design Competition</strong></a></div>
     </div> 
       <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-      <i>这项竞赛。。。</i>
+      <i>This project primarily aims at the reshaping of campus culture, focusing on the study of the campus's historical evolution and utilizing cultural and living space design as key methods. Through this approach, the project seeks to achieve the inheritance and renewal of campus culture and the improvement and transformation of the living environment. The envisioned outcome is to recreate a living picture that thrives on historical context and sustains itself through the harmonious integration with water elements.</i>
     </div>
     <strong><i style="color:#c02c38">Gold Award</i></strong>
     <div class="author"><strong>Qi Cheng</strong>, et al.</div>
