@@ -71,12 +71,12 @@ During my undergraduate and graduate studies, I participated in multiple competi
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="/images/wupeni.png"><strong> WUPENICITY 2020 INTERNATIONAL COMPETITION ON URBAN SUSTAINABILITY REPORTS</strong></a></div>
+      <div class="title"><a href="/images/wupeni.png"><strong> WUPENICITY 2020 International Competition on Urban Sustainability Reports</strong></a></div>
     </div> 
       <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
       <i>这项竞赛。。。</i>
     </div>
-    <strong><i style="color:#c02c38">Nomination AWARD</i></strong>
+    <strong><i style="color:#c02c38">Nomination Award</i></strong>
     <div class="author"><strong>Qi Cheng</strong>, et al.</div>
     <strong><i style="color:#7b5aa6">Nov 2020</i></strong>
   </div>
@@ -117,7 +117,7 @@ During my undergraduate and graduate studies, I participated in multiple competi
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="/images/aijing.png"><strong> WUPENICITY 2020 INTERNATIONAL COMPETITION ON URBAN SUSTAINABILITY REPORTS</strong></a></div>
+      <div class="title"><a href="/images/aijing.png"><strong> The 10th IDEA-KING International Landscape Planning and Design Competition</strong></a></div>
     </div> 
       <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
       <i>这项竞赛。。。</i>
