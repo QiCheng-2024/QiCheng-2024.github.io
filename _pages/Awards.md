@@ -67,11 +67,11 @@ During my undergraduate and graduate studies, I participated in multiple competi
 
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="flex: 0 0 300px; margin-right: 40px; padding-left: 0;">
-    <img src="/images/wupeni.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+    <img src="/files/wupeni1.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="<img src="/images/UC.png" WUPENICITY 2020 INTERNATIONAL COMPETITION ON URBAN SUSTAINABILITY REPORTS</strong></a></div>
+      <div class="title"><a href="<img src="/images/wupeni.png" WUPENICITY 2020 INTERNATIONAL COMPETITION ON URBAN SUSTAINABILITY REPORTS</strong></a></div>
     </div> 
       <div class="competition-description">
       <i>这项竞赛。。。</i>
