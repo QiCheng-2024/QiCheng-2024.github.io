@@ -61,7 +61,7 @@ During my graduate studies, I served multiple times as a reviewer for prestigiou
 Competitions
 ======
 <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-During my undergraduate and graduate studies, I participated in multiple competitions and won several important awards. These design achievements have fostered thoughtful consideration of my future research.
+During my undergraduate and graduate studies, I actively participated as a core member in various professional competitions, achieving significant recognition, including two gold awards and a nomination award. These accomplishments have influenced my approach to research, fostering a deeper understanding of my field and my future academic pursuits. 
  </div>
 ---
 
