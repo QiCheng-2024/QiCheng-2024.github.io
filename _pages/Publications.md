@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-During my graduate studies, I have significantly contributed to the academic field through the publication of <strong>17 research papers</strong> in prestigious international journals and conferences. Of these, I served as the first author or corresponding author for 6 SCI/SSCI papers, all of which were published in JCR Q1 journals, and for 8 international conference papers, some of which I also presented. Furthermore, I have actively participated as a co-author in the writing and revision of several other research papers.
+During my graduate studies, I have significantly contributed to the academic field through the publication of 17 research papers in prestigious international journals and conferences. Of these, I served as the first author or corresponding author for 6 SCI/SSCI papers, all of which were published in JCR Q1 journals, and for 8 international conference papers, some of which I also presented. Furthermore, I have actively participated as a co-author in the writing and revision of several other research papers.
  </div>
 ---
 
