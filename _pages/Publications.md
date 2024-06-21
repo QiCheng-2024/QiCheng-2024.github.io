@@ -202,7 +202,7 @@ Conference Papers
       <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
       <div class="links">
         <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
-        <strong><i style="color:#7b5aa6">Participation</i></strong>
+        <strong><i style="color:#7b5aa6">Presentation</i></strong>
       </div>
     </div>
   </div>
@@ -221,7 +221,7 @@ Conference Papers
       <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
       <div class="links">
         <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
-        <strong><i style="color:#7b5aa6">Participation</i></strong>
+        <strong><i style="color:#7b5aa6">Presentation</i></strong>
       </div>
     </div>
   </div>
@@ -240,7 +240,7 @@ Conference Papers
       <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
       <div class="links">
         <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
-        <strong><i style="color:#7b5aa6">Participation</i></strong>
+        <strong><i style="color:#7b5aa6">Presentation</i></strong>
       </div>
     </div>
   </div>
@@ -259,7 +259,7 @@ Conference Papers
       <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
       <div class="links">
         <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
-        <strong><i style="color:#7b5aa6">Participation</i></strong>
+        <strong><i style="color:#7b5aa6">Presentation</i></strong>
       </div>
     </div>
   </div>
@@ -278,7 +278,7 @@ Conference Papers
       <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
       <div class="links">
         <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
-        <strong><i style="color:#7b5aa6">Presentation</i></strong>
+        <strong><i style="color:#7b5aa6">Participation</i></strong>
       </div>
     </div>
   </div>
@@ -297,7 +297,7 @@ Conference Papers
       <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
       <div class="links">
         <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
-        <strong><i style="color:#7b5aa6">Presentation</i></strong>
+        <strong><i style="color:#7b5aa6">Participation</i></strong>
       </div>
     </div>
   </div>
@@ -316,7 +316,7 @@ Conference Papers
       <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
       <div class="links">
         <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
-        <strong><i style="color:#7b5aa6">Presentation</i></strong>
+        <strong><i style="color:#7b5aa6">Participation</i></strong>
       </div>
     </div>
   </div>
@@ -335,7 +335,7 @@ Conference Papers
       <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
       <div class="links">
         <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
-        <strong><i style="color:#7b5aa6">Presentation</i></strong>
+        <strong><i style="color:#7b5aa6">Participation</i></strong>
       </div>
     </div>
   </div>
