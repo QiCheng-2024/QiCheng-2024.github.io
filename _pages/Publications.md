@@ -192,17 +192,17 @@ Conference Papers
 ======
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
-    <img src="/images/C3.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+    <img src="/images/CP1.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
   </div>
 
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="https://isocarp.org/app/uploads/2023/06/ISOCARP_2022_Sha_ISO354.pdf">[1] Differentiation of family medical resources use of "new citizens" from the perspective of health equity</a></div>
-      <div class="author"><strong>Shiyan Sha</strong>, Ming Lu, Qinghe Meng, Linghai Xuan</div>
-      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 58th)</strong>, Oct 2022.</em></div>
+      <div class="title"><a href="">[1] Comparison of the spatial and temporal distribution characteristics of the "Informal Economy" in the context of multi-sector collaboration and governance</a></div>
+      <div class="author"><strong>Qi Cheng</strong>, Shiyan Sha, Wen Cheng, Ming Lu</div>
+      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
       <div class="links">
         <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
-        <strong><i style="color:#7b5aa6">Presentation</i></strong>
+        <strong><i style="color:#7b5aa6">Participation</i></strong>
       </div>
     </div>
   </div>
@@ -211,14 +211,52 @@ Conference Papers
 
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
-    <img src="/images/C4.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+    <img src="/images/CP4.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
   </div>
 
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="https://isocarp.org/app/uploads/2023/05/ISOCARP_2022_Meng_ISO319.pdf">[2] Holistic Identification and Optimization of Basin Ecological Infrastructure Based on a Quantitative Analysis Framework</a></div>
-      <div class="author">Qinghe Meng, Ming Lu, <strong>Shiyan Sha</strong></div>
-      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 58th)</strong>, Oct 2022.</em></div>
+      <div class="title"><a href="">[2] Evaluation of urban community healing space demand and planning strategies from a health equity perspective</a></div>
+      <div class="author"><strong>Qi Cheng</strong>, Shiyan Sha, Wen Cheng, Ming Lu</div>
+      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
+      <div class="links">
+        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
+        <strong><i style="color:#7b5aa6">Participation</i></strong>
+      </div>
+    </div>
+  </div>
+</div>
+---
+
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
+    <img src="/images/CP3.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><a href="">[3] Social infrastructure demand evaluation and planning policies of historical communities from a resilience perspective</a></div>
+      <div class="author"><strong>Qi Cheng</strong>, Shiyan Sha, Wen Cheng, Ming Lu</div>
+      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
+      <div class="links">
+        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
+        <strong><i style="color:#7b5aa6">Participation</i></strong>
+      </div>
+    </div>
+  </div>
+</div>
+---
+
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
+    <img src="/images/CP2.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><a href="">[4] The thermal environmental characteristics and climate- responsive planning of "Rural Communities" in severe cold regions</a></div>
+      <div class="author"><strong>Qi Cheng</strong>, Shiyan Sha, Wen Cheng, Ming Lu</div>
+      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
       <div class="links">
         <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
         <strong><i style="color:#7b5aa6">Participation</i></strong>
@@ -235,8 +273,8 @@ Conference Papers
 
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="">[3] Characteristics of "Flash Mob" behavior and cultural transmission in public space based on an inclusive perspective- Evidence from Tianjin City, China</a></div>
-      <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng, Ming Lu, Wen Cheng</div>
+      <div class="title"><a href="">[5] Characteristics of "Flash Mob" behavior and cultural transmission in public space based on an inclusive perspective- Evidence from Tianjin City, China</a></div>
+      <div class="author">Shiyan Sha, <strong>Qi Cheng(Corresponding Author)</strong>, Ming Lu, Wen Cheng</div>
       <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
       <div class="links">
         <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
@@ -254,8 +292,8 @@ Conference Papers
 
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="">[4] Equity-oriented research on the characteristics of socio-spatial differentiation and governance strategies in shrinking cities</a></div>
-      <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng, Ming Lu, Wen Cheng</div>
+      <div class="title"><a href="">[6] Equity-oriented research on the characteristics of socio-spatial differentiation and governance strategies in shrinking cities</a></div>
+      <div class="author">Shiyan Sha, <strong>Qi Cheng(Corresponding Author)</strong>, Ming Lu, Wen Cheng</div>
       <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
       <div class="links">
         <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
@@ -268,13 +306,13 @@ Conference Papers
 
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
-    <img src="/images/C7.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+    <img src="/images/CP7.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
   </div>
 
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="">[5] Improving social resilience in shrinking cities through social infrastructure regeneration- A investigation from Hegang, China</a></div>
-      <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng, Ming Lu, Wen Cheng</div>
+      <div class="title"><a href="">[7] Improving social resilience in shrinking cities through social infrastructure regeneration- A investigation from Hegang, China</a></div>
+      <div class="author">Shiyan Sha, <strong>Qi Cheng(Corresponding Author)</strong>, Ming Lu, Wen Cheng</div>
       <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
       <div class="links">
         <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
@@ -287,93 +325,17 @@ Conference Papers
 
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
-    <img src="/images/C8.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+    <img src="/images/CP5.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
   </div>
 
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="">[6] Spatial Distribution and Usage Characteristics of "Workers’ Harbor" from the Perspective of Opening and Sharing- A Case Study from Tianjin, China</a></div>
-      <div class="author"><strong>Shiyan Sha</strong>, Qi Cheng, Ming Lu, Wen Cheng</div>
+      <div class="title"><a href="">[8] Spatial Distribution and Usage Characteristics of "Workers’ Harbor" from the Perspective of Opening and Sharing- A Case Study from Tianjin, China</a></div>
+      <div class="author">Shiyan Sha, <strong>Qi Cheng(Corresponding Author)</strong>, Ming Lu, Wen Cheng</div>
       <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
       <div class="links">
         <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
         <strong><i style="color:#7b5aa6">Presentation</i></strong>
-      </div>
-    </div>
-  </div>
-</div>
----
-
-<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
-  <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
-    <img src="/images/C16.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
-  </div>
-
-  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
-    <div>
-      <div class="title"><a href="">[7] Comparison of the spatial and temporal distribution characteristics of the "Informal Economy" in the context of multi-sector collaboration and governance</a></div>
-      <div class="author">Qi Cheng, <strong>Shiyan Sha(Corresponding Author)</strong>, Wen Cheng, Ming Lu</div>
-      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
-      <div class="links">
-        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
-        <strong><i style="color:#7b5aa6">Participation</i></strong>
-      </div>
-    </div>
-  </div>
-</div>
----
-
-<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
-  <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
-    <img src="/images/C17.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
-  </div>
-
-  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
-    <div>
-      <div class="title"><a href="">[8] Evaluation of urban community healing space demand and planning strategies from a health equity perspective</a></div>
-      <div class="author">Qi Cheng, <strong>Shiyan Sha(Corresponding Author)</strong>, Wen Cheng, Ming Lu</div>
-      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
-      <div class="links">
-        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
-        <strong><i style="color:#7b5aa6">Participation</i></strong>
-      </div>
-    </div>
-  </div>
-</div>
----
-
-<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
-  <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
-    <img src="/images/C18.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
-  </div>
-
-  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
-    <div>
-      <div class="title"><a href="">[9] Social infrastructure demand evaluation and planning policies of historical communities from a resilience perspective</a></div>
-      <div class="author">Qi Cheng, <strong>Shiyan Sha(Corresponding Author)</strong>, Wen Cheng, Ming Lu</div>
-      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
-      <div class="links">
-        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
-        <strong><i style="color:#7b5aa6">Participation</i></strong>
-      </div>
-    </div>
-  </div>
-</div>
----
-
-<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
-  <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
-    <img src="/images/C19.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
-  </div>
-
-  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
-    <div>
-      <div class="title"><a href="">[10] The thermal environmental characteristics and climate- responsive planning of "Rural Communities" in severe cold regions</a></div>
-      <div class="author">Qi Cheng, <strong>Shiyan Sha(Corresponding Author)</strong>, Wen Cheng, Ming Lu</div>
-      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
-      <div class="links">
-        <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
-        <strong><i style="color:#7b5aa6">Participation</i></strong>
       </div>
     </div>
   </div>
