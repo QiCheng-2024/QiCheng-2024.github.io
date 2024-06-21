@@ -21,7 +21,7 @@ repository               : "https://QiCheng-2024.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/QiCheng.png"
+  avatar           : "https://qicheng-2024.github.io/images/QiCheng.png"
   name             : "Qi Cheng"
   pronouns         : #"she/her"  
   bio              : "Based on Climate change, society, geography, and city, contemplating the evolving world, beings, and ourselves."
