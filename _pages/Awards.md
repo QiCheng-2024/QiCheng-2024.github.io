@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Review certificate
+Reviewer certificates
 ======
 <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
 During my graduate studies, I served multiple times as a reviewer for prestigious journals. These valuable experiences have given me a clearer understanding of how to conceptualize and write research papers. I have also applied my reviewing experience to enhance the quality of my own research.
@@ -58,10 +58,10 @@ During my graduate studies, I served multiple times as a reviewer for prestigiou
 </div>
 ---
 
-Competition
+Competitions
 ======
 <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-During my graduate studies, I served multiple times as a reviewer for prestigious journals. These valuable experiences have given me a clearer understanding of how to conceptualize and write research papers. I have also applied my reviewing experience to enhance the quality of my own research.
+During my undergraduate and graduate studies, I participated in multiple competitions and won several important awards. These design achievements have deepened my understanding of my field and have fostered thoughtful consideration of my future research areas.
  </div>
 ---
 
