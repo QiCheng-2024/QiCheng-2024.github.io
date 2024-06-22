@@ -58,7 +58,7 @@ In the process of participating in social activities such as paper presentations
  </div> 
     <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">At the 59th ISOCARP World Planning Congress, I presented multiple papers and engaged in extensive discussions with scholars from around the world. These interactions provided me with a deeper understanding of the research frontiers in various fields.
     </div> 
-    <strong><i style="color:#7b5aa6">May 2024</i></strong>
+    <strong><i style="color:#7b5aa6">Sep 2023</i></strong>
       <div class="links">
   </div>
  </div>
