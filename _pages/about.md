@@ -38,7 +38,6 @@ My research interests have evolved in three stages. Initially, I focused on the 
 Education
 ======
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
