@@ -43,7 +43,7 @@ During my undergraduate studies, I participated in several important research-or
       <div class="title"><strong>The Joint Graduation Design of Universities in the Beijing-Tianjin-Hebei Region</strong></div>
     </div> 
       <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-      <i>As a core member, I participated in the planning and design of projects such as the Zouping City Public Cultural and Health Base. I was responsible for crucial tasks, including data collection, overall site planning, functional layout, and architectural modeling.</i>
+      <i>As the project leader, I was primarily responsible for conceptualizing the project idea, planning the design, arranging the functional layout, and expressing these elements through drawings. This project aims to create a new type of district that integrates culture and commerce, featuring diverse functional facilities such as a cultural hive and an industrial incubator. This project was awarded as an Outstanding Graduation Design.</i>
     </div>
     <strong><i style="color:#c02c38">Outstanding Graduation Design</i></strong>
     <div class="author">Qi Cheng, et al.</div>
