@@ -38,21 +38,20 @@ My research interests have evolved in three stages. Initially, I focused on the 
 Education
 ======
 
-<html lang="zh-EN">
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Education</title>
     <style>
-
         .container {
             max-width: 800px;
             margin: 0 auto;
             background: #fff;
             padding: 15px;
             border-radius: 8px;
-            /* Add margin bottom to create space between the container and the next element */
-            margin-bottom: 15px; /* Adjust as needed */
+            margin-bottom: 15px;
         }
         .row {
             display: flex;
@@ -63,23 +62,24 @@ Education
             font-weight: bold;
             color: #132C33;
         }
-        /* Reduce bottom margin for paragraphs inside sections */
         .row p {
-            margin-bottom: 5px; /* Adjust as needed */
+            margin-bottom: 5px;
         }
     </style>
 </head>
 <body>
     <div class="container">
         <section class="row">
-            <p class="highlight"> <a href="http://en.hit.edu.cn">Harbin Institute of Technology</a></p>   
+            <p class="highlight">
+                <a href="http://en.hit.edu.cn" target="_blank" rel="noopener noreferrer">Harbin Institute of Technology</a>
+            </p>
             <div>
                 <p>Sept 2021 - Mar 2024</p>
             </div>
         </section>
         <section class="row">
             <div>
-                <p>Master of Philosophy in Urban and rural planning <i>(Average score: 89.67/100)</i></p>
+                <p>Master of Philosophy in Urban and Rural Planning <i>(Average score: 89.67/100)</i></p>
             </div>
         </section>
         <section class="row">
@@ -87,7 +87,7 @@ Education
                 <p class="highlight">Ranking within major:</p>
                 <p>1/38 (Top 2.6%)</p>
             </div>
-          </section>
+        </section>
         <section class="row">
             <div>
                 <p class="highlight">Honor:</p>
@@ -100,16 +100,18 @@ Education
                 <p>Planning Design Research (88); Urban Planning Theory (93); Application of Geographic Information and Remote Sensing Analysis (88); Design Research (95)</p>
             </div>
         </section>
-       <section class="row">
+        <section class="row">
             <div>
                 <p class="highlight">Collaborating Supervisors:</p>
-                <p><a href="http://homepage.hit.edu.cn/luming">Prof. Ming Lu</a>, <a href="https://gr.xjtu.edu.cn/en/web/zhenmeng">Assoc. Prof. Meng Zhen</a></p>
+                <p>
+                    <a href="http://homepage.hit.edu.cn/luming" target="_blank" rel="noopener noreferrer">Prof. Ming Lu</a>, 
+                    <a href="https://gr.xjtu.edu.cn/en/web/zhenmeng" target="_blank" rel="noopener noreferrer">Assoc. Prof. Meng Zhen</a>
+                </p>
             </div>
         </section>
     </div>
 </body>
 </html>
-
 
 ---
 
