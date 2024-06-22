@@ -90,7 +90,7 @@ In the process of participating in social activities such as paper presentations
     <div>
       <div class="title"><strong>An Investigation of Social Infrastructure and Social Capital in Hegang City, China.</strong></div>
     </div> 
-    <strong><i style="color:#c02c38">ISOCARP</i></strong>
+    <i style="color:#FF000000">I carried out questionnaire distribution and interviews in communities in Tianjin for up to two months, and this data provided the research basis for my research papers [2] and [5].</i>
     <strong><i style="color:#7b5aa6">Jun 2023 - Aug 2023</i></strong>
       <div class="links">
         <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Activity</a>
