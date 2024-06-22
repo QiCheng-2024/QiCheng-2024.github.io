@@ -22,10 +22,10 @@ During my undergraduate studies, I participated in several important research-or
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><strong>Participated in the writing and editing of the book “Science of City” (In Chinese)</strong></div>
+      <div class="title"><strong>Planning and Design Scheme of Zouping National Cultural Health Base and Supporting Facilities Project (In Chinese)</strong></div>
     </div> 
       <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-      <i>I contributed to the editing of the book “Science of City", which is a textbook to fill in the intermediate level (applied theory) of the urban science system and was selected as a textbook for urban and rural planning majors of the National Urban and Rural Planning Programme of the "14th Five-Year Plan". I was responsible for data collection, writing and editing, including chapters on urbanisation, laws of urban development, urban social systems, rural planning strategies, etc., and participated in the writing of about 100,000 words.</i>
+      <i>As a core member, I participated in the planning and design of projects such as the Zouping City Public Cultural and Health Base. I was responsible for crucial tasks, including data collection, overall site planning, functional layout, and architectural modeling.</i>
     </div>
     <strong><i style="color:#c02c38">As a Core Member</i></strong>
     <div class="author">Harbin Institute of Technology</div>
