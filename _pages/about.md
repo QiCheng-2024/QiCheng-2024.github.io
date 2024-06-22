@@ -183,7 +183,6 @@ Education
 </html>
 ---
 
-Skills & Interests
+Skills
 ======
-* Python, Java, Latex, SPSS, GIS, ENVI, Geoda 
-* Large fomat Photograph, Handcraft, Stone carving
+* Python, Java, Latex, SPSS, GIS, ENVI, Geoda
