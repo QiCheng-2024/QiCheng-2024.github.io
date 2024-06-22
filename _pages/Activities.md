@@ -90,7 +90,8 @@ In the process of participating in social activities such as paper presentations
     <div>
       <div class="title"><strong>An Investigation of Social Infrastructure and Social Capital in Hegang City, China.</strong></div>
     </div> 
-    <i style="color:#FF000000">I carried out questionnaire distribution and interviews in communities in Tianjin for up to two months, and this data provided the research basis for my research papers [2] and [5].</i>
+    <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
+In the process of participating in social activities such as paper presentations and work shops, I have also practised my oral expression skills, social skills and teamwork skills, which have provided me with confidence and support to participate in more international communications.
     <strong><i style="color:#7b5aa6">Jun 2023 - Aug 2023</i></strong>
       <div class="links">
         <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About the Activity</a>
