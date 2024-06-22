@@ -79,13 +79,16 @@ Education
         </section>
         <section class="row">
             <div>
-                <p>Master of Philosophy in Urban and rural planning <i>(Average score: 86.9/100)</i></p>
+                <p>Master of Philosophy in Urban and rural planning <i>(Average score: 89.67/100)</i></p>
             </div>
         </section>
         <section class="row">
             <div>
+                <p class="highlight">Ranking within major:</p>
+                <p>1/38 (Top 2.6%)</p>
+            </div>
                 <p class="highlight">Honor:</p>
-                <p>First-class Scholarship; Outstanding Student Award; Excellent Dissertation Proposal</p>
+                <p>First-class Scholarship; Outstanding Student Award</p>
             </div>
         </section>
         <section class="row">
@@ -143,19 +146,19 @@ Education
         </section>
         <section class="row">
             <div>
-                <p>Bachelor of Engineering in Urban and rural planning <i>(GPA: 3.77/4.00)</i></p>
+                <p>Bachelor of Engineering in Urban and rural planning <i>(GPA: 3.90/4.00)</i></p>
             </div>
         </section>
         <section class="row">
             <div>
                 <p class="highlight">Ranking within major:</p>
-                <p>2/58 (Top 3%)</p>
+                <p>2/40 (Top 5.0%)</p>
             </div>
         </section>
         <section class="row">
             <div>
                 <p class="highlight">Honor:</p>
-                <p>Outstanding Graduation Award; First-class Scholarship</p>
+                <p>Outstanding Graduation Award; First-class Scholarship; Outstanding Graduation Project</p>
             </div>
         </section>
         <section class="row">
@@ -177,5 +180,5 @@ Education
 
 Skills & Interests
 ======
-* SPSS, GIS, ENVI, Python, Java, Latex
+* Python, Java, Latex, SPSS, GIS, ENVI, Geoda 
 * Large fomat Photograph, Handcraft, Stone carving
