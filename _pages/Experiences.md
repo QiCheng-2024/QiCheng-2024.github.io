@@ -12,7 +12,7 @@ redirect_from:
 Research Projects
 ======
 <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-During my undergraduate studies, I participated in several important research-oriented academic competitions, which were high-level events organised by the Urban Planning Society of China. In 2019, as a team leader, I collaborated with my teammates to win awards in both the social investigation and urban design categories. These competitions honed my skills in research, observation, analysis and drawing, and provided crucial support for my postgraduate studies.
+During my undergraduate studies, I participated in numerous spatial planning practices and joint design projects, earning an award for an outstanding graduation project. These experiences significantly enhanced my conceptual design abilities and spatial design skills, while also profoundly influencing my research drawing techniques. Additionally, working on practical projects allowed me to collaborate with peers and professionals from diverse disciplinary backgrounds. This interdisciplinary cooperation improved my teamwork and communication skills. In the joint graduation design project, I conducted an in-depth review of relevant literature, integrating theoretical knowledge with practical case studies to develop a series of innovative and feasible design solutions. This process honed my research abilities, teaching me how to systematically conduct literature reviews, data analysis, and design validation, thereby laying a solid foundation for future academic research.
  </div>
 ---
 
@@ -29,7 +29,7 @@ During my undergraduate studies, I participated in several important research-or
     </div>
     <strong><i style="color:#c02c38">Core Member</i></strong>
     <div class="author">Qi Cheng, et al.</div>
-    <strong><i style="color:#7b5aa6">Sep 2021 - Mar 2024</i></strong>
+    <strong><i style="color:#7b5aa6"> Nov 2021 - Dec 2021</i></strong>
   </div>
 </div>
 ---
