@@ -73,7 +73,7 @@ In the process of participating in social activities such as paper presentations
     <div>
       <div class="title"><strong>A Social Investigation on Heat Wave Resilience of Residents in Neighbourhoods in Tianjin, China.</strong></div>
  </div> 
-    <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">In the process of participating in social activities such as paper presentations and work shops, I have also practised my oral expression skills, social skills and teamwork skills, which have provided me with confidence and support to participate in more international communications.
+    <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">I carried out questionnaire distribution and interviews in communities in Tianjin for up to two months, and this data provided the research basis for my research papers [1] and [5].
     </div> 
     <strong><i style="color:#7b5aa6">May 2024</i></strong>
       <div class="links">
@@ -90,7 +90,7 @@ In the process of participating in social activities such as paper presentations
     <div>
       <div class="title"><strong>An Investigation of Social Infrastructure and Social Capital in Hegang City, China.</strong></div>
     </div> 
-    <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">In the process of participating in social activities such as paper presentations and work shops, I have also practised my oral expression skills, social skills and teamwork skills, which have provided me with confidence and support to participate in more international communications.
+    <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">In my month-long investigation of the shrinking city of Hegang, I focused on the existing social infrastructure of the old urban area and its ability to facilitate the formation of residents' social networks and social capital. These data provided the basis for my research papers [3], [6] and [7].
     </div> 
     <strong><i style="color:#7b5aa6">Jun 2023 - Aug 2023</i></strong>
       <div class="links">
