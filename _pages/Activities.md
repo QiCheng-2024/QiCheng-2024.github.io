@@ -37,7 +37,7 @@ In the process of participating in social activities such as paper presentations
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><strong>Participated in the USF International Workshop: Grassroots Infrastructures and Social Reproduction.</strong></div>
+      <div class="title"><strong>participation in the USF International Workshop: Grassroots Infrastructures and Social Reproduction.</strong></div>
  </div> 
     <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">This workshop focused on grassroots infrastructure and urban social reproduction. It centered around two key topics: 1) the ways in which grassroots residents construct and maintain infrastructure in their daily struggles, and 2) how grassroots infrastructure plays a crucial role in both social reproduction and political change.
     </div> 
