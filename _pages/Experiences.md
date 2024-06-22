@@ -22,32 +22,37 @@ During my undergraduate studies, I participated in several important research-or
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><strong>Planning and Design Scheme of Zouping National Cultural Health Base and Supporting Facilities Project (In Chinese)</strong></div>
+      <div class="title"><strong>Planning and Design Scheme of Zouping National Cultural Health Base and Supporting Facilities Project in China</strong></div>
     </div> 
       <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
       <i>As a core member, I participated in the planning and design of projects such as the Zouping City Public Cultural and Health Base. I was responsible for crucial tasks, including data collection, overall site planning, functional layout, and architectural modeling.</i>
     </div>
-    <strong><i style="color:#c02c38">As a Core Member</i></strong>
-    <div class="author">Harbin Institute of Technology</div>
+    <strong><i style="color:#c02c38">Core Member</i></strong>
+    <div class="author">Qi Cheng, et al.</div>
     <strong><i style="color:#7b5aa6">Sep 2021 - Mar 2024</i></strong>
   </div>
 </div>
 ---
 
+<div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
+During my undergraduate studies, I participated in several important research-oriented academic competitions, which were high-level events organised by the Urban Planning Society of China. In 2019, as a team leader, I collaborated with my teammates to win awards in both the social investigation and urban design categories. These competitions honed my skills in research, observation, analysis and drawing, and provided crucial support for my postgraduate studies.
+ </div>
+---
+
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="flex: 0 0 300px; margin-right: 40px; padding-left: 0;">
-    <img src="/images/zzw333.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+    <img src="/images/bishe.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="/images/zzw3.png"><strong>Excellent Urban Design Assignments for Urban and Rural Planning Majors in Higher Education Institutions in China</strong></a></div>
+      <div class="title"><strong>The Joint Graduation Design of Universities in the Beijing-Tianjin-Hebei Region</strong></div>
     </div> 
       <div class="competition-description" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-      <i>In this research-based project, our team selected a historic and cultural district in Liaocheng, Shandong Province, China. We conducted an in-depth, month-long investigation, focusing on various aspects such as social structure, public spaces and economic development. Based on our findings, we proposed a 'co-creation and co-governance' micro-renewal strategy to revitalise the cultural vitality of the area.</i>
+      <i>As a core member, I participated in the planning and design of projects such as the Zouping City Public Cultural and Health Base. I was responsible for crucial tasks, including data collection, overall site planning, functional layout, and architectural modeling.</i>
     </div>
-    <strong><i style="color:#c02c38">Third Price</i></strong>
-    <div class="author"><strong>Shiyan Sha (First Author)</strong>, Shunli Zhao.</div>
-    <strong><i style="color:#7b5aa6">Oct 2019</i></strong>
+    <strong><i style="color:#c02c38">Outstanding Graduation Design</i></strong>
+    <div class="author">Qi Cheng, et al.</div>
+    <strong><i style="color:#7b5aa6">Apr 2022 - Jun 2022</i></strong>
   </div>
 </div>
 ---
