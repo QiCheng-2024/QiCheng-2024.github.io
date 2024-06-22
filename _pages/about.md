@@ -87,6 +87,9 @@ Education
                 <p class="highlight">Ranking within major:</p>
                 <p>1/38 (Top 2.6%)</p>
             </div>
+          </section>
+        <section class="row">
+            <div>
                 <p class="highlight">Honor:</p>
                 <p>First-class Scholarship; Outstanding Student Award</p>
             </div>
