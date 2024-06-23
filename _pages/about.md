@@ -173,6 +173,8 @@ Education
                 <p class="highlight">Core Modules:</p>
                 <p>Principle of Urban and Rural Planning A (95/100); Specific Surveying and Mapping (95/100); Urban Planning and Design (94/100); Special Planning B (Planning of Road and Traffic of Urban and Rural) (94/100); Urban Economics (93/100); Special Planning C (Urban and Rural Infrastructure Planning). (94/100)</p>
             </div>
+      <div class="links" style="text-align: right;">
+  <a href=" " class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Transcript</a >
         </section>
        <section class="row">
             <div>
