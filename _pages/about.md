@@ -110,11 +110,14 @@ Education
                 <p>
                     <a href="https://www.scopus.com/authid/detail.uri?authorId=55125627000" target="_blank" rel="noopener noreferrer">Prof. Wen Cheng</a>, 
                     <a href="https://www.researchgate.net/profile/Meng-Zhen-4" target="_blank" rel="noopener noreferrer">Assoc. Prof. Meng Zhen</a>
+                </p>
             </div>
         </section>
+     </div>
     </div>
 </body>
 </html>
+
 ---
 
 <html lang="en">
