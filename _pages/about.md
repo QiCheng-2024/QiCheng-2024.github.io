@@ -204,6 +204,6 @@ Education
 </html>
 ---
 
-Skills
+Skills and software
 ======
 * Python; Java; Latex; GIS; SPSS; Geoda; Origin
