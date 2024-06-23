@@ -100,6 +100,11 @@ Education
             </div>
         </section>
         <section class="row">
+            <div class="links">
+                <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank">Transcript</a>
+            </div>
+        </section>
+        <section class="row">
             <div>
                 <p class="highlight">Collaborating Supervisors:</p>
                 <p>
@@ -108,8 +113,6 @@ Education
                 </p>
             </div>
         </section>
-      <div class="links" style="text-align: right;">
-  <a href=" " class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Transcript</a >
 </div>
     </div>
 </body>
