@@ -96,7 +96,7 @@ Education
         <section class="row">
             <div>
                 <p class="highlight">Core Modules:</p>
-                <p>Planning Design Research (88); Urban Planning Theory (93); Application of Geographic Information and Remote Sensing Analysis (88); Design Research (95)</p>
+                <p>Research Methodology and Paper Writing of Architecture Science (91/100); Theory of Urban Transportation Planning (91/100); Research Methods of Urban Planning (90/100); Frontier of Planning Research (90/100); Urban landscape Feature (97/100)</p>
             </div>
         </section>
         <section class="row">
@@ -168,7 +168,7 @@ Education
         <section class="row">
             <div>
                 <p class="highlight">Core Modules:</p>
-                <p>Urban Planning and Design (94); History of Urbanism and Planning (97); Principles of Urban and Rural Planning (96); Urban and Rural Regional Planning (94); Urban Sociology (92); Urban Geography (93)</p>
+                <p>Principle of Urban and Rural Planning A (95/100); Specific Surveying and Mapping (95/100); Urban Planning and Design (94/100); Special Planning B (Planning of Road and Traffic of Urban and Rural) (94/100); Urban Economics (93/100); Special Planning C (Urban and Rural Infrastructure Planning). (94/100)</p>
             </div>
         </section>
        <section class="row">
