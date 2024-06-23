@@ -73,7 +73,7 @@ Education
                 <a href="http://en.hit.edu.cn" target="_blank" rel="noopener noreferrer">Harbin Institute of Technology</a>
             </p>
             <div>
-                <p>Sept 2021 - Mar 2024</p>
+                <p>Sept 2022 - Present</p>
             </div>
         </section>
         <section class="row">
@@ -145,7 +145,7 @@ Education
                 <p class="highlight"> <a href="https://eweb.hebut.edu.cn">Hebei University of Technology</a></p>      
             </div>
             <div>
-                <p>Sept 2016 - Jun 2021</p>
+                <p>Sept 2017 - Jun 2022</p>
             </div>
         </section>
         <section class="row">
