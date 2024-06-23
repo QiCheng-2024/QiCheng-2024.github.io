@@ -26,9 +26,9 @@ My research interests have evolved in three stages. Initially, I focused on the 
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0; text-align: justify;">
     <div>
-      <div class="title 1">[1]<strong>Infrastructure Divergence; Healthcare facility; Adaptive Strategies</strong></div>
-      <div class="title 2">[2]<strong>Climate Change; Health Risk; Vulnerability and Hazards</strong></div>
-      <div class="title 3">[3]<strong>Social Injustice; Social Capital; Health Inequality</strong></div>
+      <div class="title 1">[1]<strong> Infrastructure Divergence; Healthcare facility; Adaptive Strategies</strong></div>
+      <div class="title 2">[2]<strong> Climate Change; Health Risk; Vulnerability and Hazards</strong></div>
+      <div class="title 3">[3]<strong> Social Injustice; Social Capital; Health Inequality</strong></div>
     </div>
   </div>
 </div>
