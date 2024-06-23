@@ -42,8 +42,9 @@ redirect_from:
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
       <div class="title"><strong>Participation in 2024 SJTU SDG July Camp</strong></div>
-    </div> 
-    <i>I attended the Traditional Medicine and UN Sustainable Development Goals (Course TMSDG) Programme, with a principal focus on SDG3: Good Health and Well-being.</i>
+    </div>
+    <div>
+      <i>I attended the Traditional Medicine and UN Sustainable Development Goals (Course TMSDG) Programme, with a principal focus on SDG3: Good Health and Well-being.</i>
     </div>
     <strong><i style="color:#c02c38">2 Credits</i></strong>
     <div>
