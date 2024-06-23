@@ -117,7 +117,6 @@ Education
     </div>
 </body>
 </html>
-
 ---
 
 <html lang="en">
@@ -203,6 +202,8 @@ Education
     </div>
 </body>
 </html>
+---
 
 Skills
 ======
+* Python; Java; Latex; GIS; SPSS; Geoda; Origin
