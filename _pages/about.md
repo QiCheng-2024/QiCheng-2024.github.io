@@ -103,8 +103,8 @@ Education
             <div>
                 <p class="highlight">Collaborating Supervisors:</p>
                 <p>
-                    <a href="http://homepage.hit.edu.cn/luming" target="_blank" rel="noopener noreferrer">Prof. Ming Lu</a>, 
-                    <a href="https://gr.xjtu.edu.cn/en/web/zhenmeng" target="_blank" rel="noopener noreferrer">Assoc. Prof. Meng Zhen</a>
+                    <a href="https://www.scopus.com/authid/detail.uri?authorId=55125627000" target="_blank" rel="noopener noreferrer">Prof. Wen Cheng</a>, 
+                    <a href="https://www.researchgate.net/profile/Meng-Zhen-4" target="_blank" rel="noopener noreferrer">Assoc. Prof. Meng Zhen</a>
                 </p>
             </div>
         </section>
