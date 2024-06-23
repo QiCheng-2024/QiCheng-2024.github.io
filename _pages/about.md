@@ -117,7 +117,7 @@ Education
 
 ---
 
-<html lang="zh-EN">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -129,15 +129,27 @@ Education
             background: #fff;
             padding: 15px;
             border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
         }
         .row {
             display: flex;
             justify-content: space-between;
-            margin-bottom: 5px;
+            margin-bottom: 15px;
         }
         .highlight {
             font-weight: bold;
             color: #132C33;
+        }
+        .links {
+            text-align: right;
+        }
+        .links a {
+            font-size: 12px;
+            color: #007BFF;
+            text-decoration: none;
+        }
+        .links a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
@@ -145,7 +157,7 @@ Education
     <div class="container">
         <section class="row">
             <div>
-                <p class="highlight"> <a href="https://eweb.hebut.edu.cn">Hebei University of Technology</a></p>      
+                <p class="highlight"><a href="https://eweb.hebut.edu.cn" target="_blank">Hebei University of Technology</a></p>
             </div>
             <div>
                 <p>Sept 2017 - Jun 2022</p>
@@ -153,7 +165,7 @@ Education
         </section>
         <section class="row">
             <div>
-                <p>Bachelor of Engineering in Urban and rural planning <i>(GPA: 3.90/4.00)</i></p>
+                <p>Bachelor of Engineering in Urban and Rural Planning <i>(GPA: 3.90/4.00)</i></p>
             </div>
         </section>
         <section class="row">
@@ -171,24 +183,23 @@ Education
         <section class="row">
             <div>
                 <p class="highlight">Core Modules:</p>
-                <p>Principle of Urban and Rural Planning A (95/100); Specific Surveying and Mapping (95/100); Urban Planning and Design (94/100); Special Planning B (Planning of Road and Traffic of Urban and Rural) (94/100); Urban Economics (93/100); Special Planning C (Urban and Rural Infrastructure Planning). (94/100)</p>
+                <p>Principle of Urban and Rural Planning A (95/100); Specific Surveying and Mapping (95/100); Urban Planning and Design (94/100); Special Planning B (Planning of Road and Traffic of Urban and Rural) (94/100); Urban Economics (93/100); Special Planning C (Urban and Rural Infrastructure Planning) (94/100)</p>
             </div>
-      <div class="links" style="text-align: right;">
-  <a href=" " class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Transcript</a >
         </section>
-       <section class="row">
+        <section class="row">
+            <div class="links">
+                <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank">Transcript</a>
+            </div>
+        </section>
+        <section class="row">
             <div>
                 <p class="highlight">Collaborating Supervisor:</p>
-                <p><a href="https://www.researchgate.net/scientific-contributions/Guangmeng-Bian-2148025468">Assoc. Prof. Guangmeng Bian</a></p>
+                <p><a href="https://www.researchgate.net/scientific-contributions/Guangmeng-Bian-2148025468" target="_blank">Assoc. Prof. Guangmeng Bian</a></p>
             </div>
         </section>
-      <div class="links" style="text-align: right;">
-  <a href=" " class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Transcript</a >
-</div>
     </div>
 </body>
 </html>
----
 
 Skills
 ======
