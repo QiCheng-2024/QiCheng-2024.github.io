@@ -101,7 +101,7 @@ Education
         </section>
         <section class="row">
             <div class="links">
-                <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank">Transcript</a>
+                <a href="/images/sscjd.png" class="btn btn-sm z-depth-0" role="button" target="_blank">Transcript</a>
             </div>
         </section>
         <section class="row">
@@ -190,7 +190,7 @@ Education
         </section>
         <section class="row">
             <div class="links">
-                <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank">Transcript</a>
+                <a href="/images/bkcjd.png" class="btn btn-sm z-depth-0" role="button" target="_blank">Transcript</a>
             </div>
         </section>
         <section class="row">
