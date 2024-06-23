@@ -117,6 +117,9 @@ Education
     </div>
 </body>
 </html>
+    </div>
+  </div>
+</div>
 
 ---
 
@@ -203,6 +206,11 @@ Education
     </div>
 </body>
 </html>
+    </div>
+  </div>
+</div>
+
+---
 
 Skills
 ======
