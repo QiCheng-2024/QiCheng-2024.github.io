@@ -50,92 +50,8 @@ Education
             background: #fff;
             padding: 15px;
             border-radius: 8px;
-            margin-bottom: 15px;
-        }
-        .row {
-            display: flex;
-            justify-content: space-between;
-            margin-bottom: 5px;
-        }
-        .highlight {
-            font-weight: bold;
-            color: #132C33;
-        }
-        .row p {
-            margin-bottom: 5px;
-        }
-    </style>
-</head>
-<body>
-    <div class="container">
-        <section class="row">
-            <p class="highlight">
-                <a href="http://en.hit.edu.cn" target="_blank" rel="noopener noreferrer">Harbin Institute of Technology</a>
-            </p>
-            <div>
-                <p>Sept 2022 - Present</p>
-            </div>
-        </section>
-        <section class="row">
-            <div>
-                <p>Master of Philosophy in Urban and Rural Planning <i>(Average score: 89.67/100)</i></p>
-            </div>
-        </section>
-        <section class="row">
-            <div>
-                <p class="highlight">Ranking within major:</p>
-                <p>1/38 (Top 2.6%)</p>
-            </div>
-        </section>
-        <section class="row">
-            <div>
-                <p class="highlight">Honor:</p>
-                <p>First-class Scholarship; Outstanding Student Award</p>
-            </div>
-        </section>
-        <section class="row">
-            <div>
-                <p class="highlight">Core Modules:</p>
-                <p>Research Methodology and Paper Writing of Architecture Science (91/100); Theory of Urban Transportation Planning (91/100); Research Methods of Urban Planning (90/100); Frontier of Planning Research (90/100); Urban landscape Feature (97/100)</p>
-            </div>
-        </section>
-        <section class="row">
-            <div class="links">
-                <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank">Transcript</a>
-            </div>
-        </section>
-        <section class="row">
-            <div>
-                <p class="highlight">Collaborating Supervisors:</p>
-                <p>
-                    <a href="https://www.scopus.com/authid/detail.uri?authorId=55125627000" target="_blank" rel="noopener noreferrer">Prof. Wen Cheng</a>, 
-                    <a href="https://www.researchgate.net/profile/Meng-Zhen-4" target="_blank" rel="noopener noreferrer">Assoc. Prof. Meng Zhen</a>
-                </p>
-            </div>
-        </section>
-</div>
-    </div>
-</body>
-</html>
-    </div>
-  </div>
-</div>
-
----
-
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Education</title>
-    <style>
-        .container {
-            max-width: 800px;
-            margin: 0 auto;
-            background: #fff;
-            padding: 15px;
-            border-radius: 8px;
             box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+            margin-bottom: 15px;
         }
         .row {
             display: flex;
@@ -157,55 +73,74 @@ Education
         .links a:hover {
             text-decoration: underline;
         }
+        .row p {
+            margin-bottom: 5px;
+        }
     </style>
 </head>
 <body>
     <div class="container">
         <section class="row">
-            <div>
-                <p class="highlight"><a href="https://eweb.hebut.edu.cn" target="_blank">Hebei University of Technology</a></p>
-            </div>
-            <div>
-                <p>Sept 2017 - Jun 2022</p>
-            </div>
+            <p class="highlight"><a href="http://en.hit.edu.cn" target="_blank" rel="noopener noreferrer">Harbin Institute of Technology</a></p>
+            <p>Sept 2022 - Present</p>
         </section>
         <section class="row">
-            <div>
-                <p>Bachelor of Engineering in Urban and Rural Planning <i>(GPA: 3.90/4.00)</i></p>
-            </div>
+            <p>Master of Philosophy in Urban and Rural Planning <i>(Average score: 89.67/100)</i></p>
         </section>
         <section class="row">
-            <div>
-                <p class="highlight">Ranking within major:</p>
-                <p>2/40 (Top 5.0%)</p>
-            </div>
+            <p class="highlight">Ranking within major:</p>
+            <p>1/38 (Top 2.6%)</p>
         </section>
         <section class="row">
-            <div>
-                <p class="highlight">Honor:</p>
-                <p>Outstanding Graduation Award; First-class Scholarship; Outstanding Graduation Project</p>
-            </div>
+            <p class="highlight">Honor:</p>
+            <p>First-class Scholarship; Outstanding Student Award</p>
         </section>
         <section class="row">
-            <div>
-                <p class="highlight">Core Modules:</p>
-                <p>Principle of Urban and Rural Planning A (95/100); Specific Surveying and Mapping (95/100); Urban Planning and Design (94/100); Special Planning B (Planning of Road and Traffic of Urban and Rural) (94/100); Urban Economics (93/100); Special Planning C (Urban and Rural Infrastructure Planning) (94/100)</p>
-            </div>
+            <p class="highlight">Core Modules:</p>
+            <p>Research Methodology and Paper Writing of Architecture Science (91/100); Theory of Urban Transportation Planning (91/100); Research Methods of Urban Planning (90/100); Frontier of Planning Research (90/100); Urban landscape Feature (97/100)</p>
+        </section>
+        <section class="row links">
+            <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank">Transcript</a>
         </section>
         <section class="row">
-            <div class="links">
-                <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank">Transcript</a>
-            </div>
-        </section>
-        <section class="row">
-            <div>
-                <p class="highlight">Collaborating Supervisor:</p>
-                <p><a href="https://www.researchgate.net/scientific-contributions/Guangmeng-Bian-2148025468" target="_blank">Assoc. Prof. Guangmeng Bian</a></p>
-            </div>
+            <p class="highlight">Collaborating Supervisors:</p>
+            <p>
+                <a href="https://www.scopus.com/authid/detail.uri?authorId=55125627000" target="_blank" rel="noopener noreferrer">Prof. Wen Cheng</a>, 
+                <a href="https://www.researchgate.net/profile/Meng-Zhen-4" target="_blank" rel="noopener noreferrer">Assoc. Prof. Meng Zhen</a>
+            </p>
         </section>
     </div>
-  </div>
-</div>
+
+    <div class="container">
+        <section class="row">
+            <p class="highlight"><a href="https://eweb.hebut.edu.cn" target="_blank">Hebei University of Technology</a></p>
+            <p>Sept 2017 - Jun 2022</p>
+        </section>
+        <section class="row">
+            <p>Bachelor of Engineering in Urban and Rural Planning <i>(GPA: 3.90/4.00)</i></p>
+        </section>
+        <section class="row">
+            <p class="highlight">Ranking within major:</p>
+            <p>2/40 (Top 5.0%)</p>
+        </section>
+        <section class="row">
+            <p class="highlight">Honor:</p>
+            <p>Outstanding Graduation Award; First-class Scholarship; Outstanding Graduation Project</p>
+        </section>
+        <section class="row">
+            <p class="highlight">Core Modules:</p>
+            <p>Principle of Urban and Rural Planning A (95/100); Specific Surveying and Mapping (95/100); Urban Planning and Design (94/100); Special Planning B (Planning of Road and Traffic of Urban and Rural) (94/100); Urban Economics (93/100); Special Planning C (Urban and Rural Infrastructure Planning) (94/100)</p>
+        </section>
+        <section class="row links">
+            <a href="#" class="btn btn-sm z-depth-0" role="button" target="_blank">Transcript</a>
+        </section>
+        <section class="row">
+            <p class="highlight">Collaborating Supervisor:</p>
+            <p><a href="https://www.researchgate.net/scientific-contributions/Guangmeng-Bian-2148025468" target="_blank">Assoc. Prof. Guangmeng Bian</a></p>
+        </section>
+    </div>
+</body>
+</html>
 
 ---
 
