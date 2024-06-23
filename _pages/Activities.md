@@ -123,4 +123,13 @@ redirect_from:
       <div class="title"><strong>An Investigation of Social Infrastructure and Social Capital in Hegang City, China</strong></div>
     </div>
     <div style="display: flex; align-items: center; padding-left: 0; text-align: justify;">
-      In my month-long investigation of the shrinking city of Hegang, I focused on the existing
+      In my month-long investigation of the shrinking city of Hegang, I focused on theexisting social infrastructure of the old urban area and its ability to facilitate theformation of residents' social networks and social capital. These data providedthe basis for my research papers [3], [6] and [7].
+         </div>
+    <strong><i style="color:#7b5aa6">Jul 2022 - Aug 2022</i></strong>
+    <div class="links">
+    </div>
+  </div>
+</div>
+
+---
+
