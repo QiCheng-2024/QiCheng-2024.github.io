@@ -16,7 +16,7 @@ I am a current Master's student at the School of Architecture and Design (former
 Research Interests
 ======
 <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-My research interests have evolved in three stages. Initially, I focused on the impact of global urbanisation on socio-environmental conditions in depopulated areas. In my second year, I explored the health and social justice issues of vulnerable residents living in environmentally disadvantaged areas. Finally, in my third year, I began to examine policies for climate change adaptation, health equity and the governance of urban regeneration. Each stage of research has taken me from building social resilience in response to environmental change to specific studies of residents' health and policy implications.
+My research interests have evolved through three distinct stages. Initially, I focused on the impact of global urbanization on socio-environmental conditions in depopulated areas. This foundation led me to explore issues of social resilience affecting vulnerable residents in environmentally disadvantaged regions. Ultimately, I began examining policies related to climate change hazards, health equity, and the allocation of healthcare facilities. Overall, my research has transitioned from building social resilience in response to environmental changes to conducting detailed studies aimed at promoting social justice and urban resilience.
  </div>
 ---
 
