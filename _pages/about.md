@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-I am a current Master's student at the School of Architecture and Design (formerly known as the School of Architecture), Harbin Institute of Technology. Over the past two years, my interests have gradually shifted to interdisciplinary areas such as climate change, healthcare, social injustice, and urban resilience. Together with collaborators and research teams, I have contributed to several peer-reviewed research publications. These rich research experiences have equipped me with practical social survey skills and enhanced my spatial analysis skills. Through field investigations and ongoing discussions with other outstanding scholars, I have developed critical thinking skills, rigorous research methods, and innovative thinking.
+I am a current Master's student at the School of Architecture and Design (formerly known as the School of Architecture), Harbin Institute of Technology. Over the past two years, my interests have gradually shifted to interdisciplinary areas such as climate change, healthcare, social injustice, and urban resilience. Together with collaborators and research teams, I have contributed to several peer-reviewed research publications. These extensive research experiences have equipped me with practical social survey skills and enhanced my spatial analysis skills. Through field investigations and ongoing discussions with other outstanding scholars, I have developed critical thinking skills, rigorous research methods, and innovative thinking.
  </div>
 
 ---
