@@ -204,9 +204,6 @@ Education
             </div>
         </section>
     </div>
-</body>
-</html>
-    </div>
   </div>
 </div>
 
