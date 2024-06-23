@@ -184,4 +184,4 @@ Education
 
 Skills
 ======
-* Python, Java, Latex, SPSS, GIS, ENVI, Geoda
+* Python; Java; Latex; SPSS; GIS; ENVI; Geoda
