@@ -41,6 +41,46 @@ redirect_from:
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
+      <div class="title"><strong>Participation in The Joint Workshop of Peking University, The University of Hong Kong, and South China University of Technology</strong></div>
+    </div>
+    <div>
+      <i>I attended the Traditional Medicine and UN Sustainable Development Goals (Course TMSDG) Programme, with a principal focus on SDG3: Good Health and Well-being.</i>
+    </div>
+      <div><strong><i style="color:#7b5aa6">Jul 2024</i></strong></div>
+      <div class="links">
+      </div>
+    </div>
+  </div>
+</div>
+
+---
+
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 300px; margin-right: 40px; padding-left: 0;">
+    <img src="/images/sj.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><strong>Participation in 2024 Summer Camp for Outstanding Students of School of Architecture, Tsinghua University</strong></div>
+    </div>
+    <div>
+      <i>I attended the Traditional Medicine and UN Sustainable Development Goals (Course TMSDG) Programme, with a principal focus on SDG3: Good Health and Well-being.</i>
+    </div>
+      <div><strong><i style="color:#7b5aa6">Jul 2024</i></strong></div>
+      <div class="links">
+      </div>
+    </div>
+  </div>
+</div>
+
+---
+
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 300px; margin-right: 40px; padding-left: 0;">
+    <img src="/images/sj.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
       <div class="title"><strong>Participation in 2024 SJTU SDG July Camp</strong></div>
     </div>
     <div>
