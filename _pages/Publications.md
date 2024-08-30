@@ -361,3 +361,41 @@ Conference Papers
   </div>
 </div>
 ---
+
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
+    <img src="/images/CP55.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><a href="">[9] Research on Theoretical Responses and Updates of Social Infrastructure Aimed at Shrinkage</a></div>
+      <div class="author">Shiyan Sha, <strong>Qi Cheng</strong>, Ming Lu</div>
+      <div class="periodical"><em><strong>(Proceedings of the 2023 China Urban Planning Annual Conference)</strong>,In Press,September 2023.</em></div>
+      <div class="links">
+        <a href="https://www.planning.org.cn/2023anpc/index.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
+        <strong><i style="color:#7b5aa6">Participation</i></strong>
+      </div>
+    </div>
+  </div>
+</div>
+---
+
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
+    <img src="/images/CP55.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><a href="">[10] Analysis and Practice of Ancient Urban Design Concepts Based on Topographical Maps and Travel Notes: A Case Study of Yuanbao Island in Yangliuqing Town, Tianjin City</a></div>
+      <div class="author">Ming Lu, Wenya Hao, <strong>Qi Cheng</strong></div>
+      <div class="periodical"><em><strong>(Proceedings of the 2023 China Urban Planning Annual Conference)</strong>,In Press,September 2023.</em></div>
+      <div class="links">
+        <a href="https://www.planning.org.cn/2023anpc/index.html" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
+        <strong><i style="color:#7b5aa6">Participation</i></strong>
+      </div>
+    </div>
+  </div>
+</div>
+---
