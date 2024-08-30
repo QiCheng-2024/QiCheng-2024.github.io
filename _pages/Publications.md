@@ -157,11 +157,11 @@ Journal Papers
 
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="https://https://www.tandfonline.com/doi/full/10.1080/13467581.2024.2389162">[8] Effects of landform and building layout on outdoor thermal environment: A case study of mountain villages in severely cold regions</a></div>
+      <div class="title"><a href="https://https://https://www.tandfonline.com/doi/full/10.1080/13467581.2024.2389162#d1e411">[8] Effects of landform and building layout on outdoor thermal environment: A case study of mountain villages in severely cold regions</a></div>
       <div class="author">Guangmeng Bian, <strong>Qi Cheng</strong>, Gaoning Yan, Shiyan Sha, Meng Zhen</div>
       <div class="periodical"><em><strong>(Journal of Asian Architecture and Building Engineering)</strong>, August 2024.</em></div>
       <div class="links">
-        <a href="https://https://www.tandfonline.com/journals/tabe20" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
+        <a href="https://https://https://www.tandfonline.com/journals/tabe20" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
         <strong><i style="color:#7b5aa6">SCIE/AHCI JCI Q1 (IF=1.5)</i></strong>
       </div>
     </div>
