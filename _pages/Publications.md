@@ -152,6 +152,25 @@ Journal Papers
 
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
+    <img src="/images/ufug2.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><a href="https://https://www.tandfonline.com/doi/full/10.1080/13467581.2024.2389162">[8] Effects of landform and building layout on outdoor thermal environment: A case study of mountain villages in severely cold regions</a></div>
+      <div class="author">Guangmeng Bian, <strong>Qi Cheng(Corresponding Author)</strong>, Gaoning Yan, Shiyan Sha, Meng Zhen</div>
+      <div class="periodical"><em><strong>(Journal of Asian Architecture and Building Engineering)</strong>, August 2024.</em></div>
+      <div class="links">
+        <a href="https://https://www.tandfonline.com/journals/tabe20" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
+        <strong><i style="color:#7b5aa6">SSCI/SCI JCI Q1 (IF=1.5)</i></strong>
+      </div>
+    </div>
+  </div>
+</div>
+---
+
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
     <img src="/images/1. UPI.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
   </div>
 
