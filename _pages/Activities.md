@@ -56,3 +56,60 @@ redirect_from:
 </div>
 ---
 
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 300px; margin-right: 40px; padding-left: 0;">
+    <img src="/images/isocarp1.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><strong>Presentation of Multiple Papers at the 59th ISOCARP World Planning Congress</strong></div>
+    </div>
+    <div style="padding-left: 0; text-align: justify;">
+      At the 59th ISOCARP World Planning Congress, I presented multiple papers and engaged in extensive discussions with scholars from around the world. These interactions provided me with a deeper understanding of the research frontiers in various fields.
+    </div>
+    <div>
+      <strong><i style="color:#7b5aa6">Sep 2023</i></strong>
+    </div>
+    <div class="links"></div>
+  </div>
+</div>
+---
+
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 300px; margin-right: 40px; padding-left: 0;">
+    <img src="/images/AC1.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><strong>A Social Investigation on Heat Wave Resilience of Residents in Neighbourhoods in Tianjin, China</strong></div>
+    </div>
+    <div style="padding-left: 0; text-align: justify;">
+      I carried out questionnaire distribution and interviews in communities in Tianjin for up to two months, and this data provided the research basis for my research papers [1] and [5].
+    </div>
+    <div>
+      <strong><i style="color:#7b5aa6">Jun 2023 - Aug 2023</i></strong>
+    </div>
+    <div class="links"></div>
+  </div>
+</div>
+---
+
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 300px; margin-right: 40px; padding-left: 0;">
+    <img src="/images/AC2.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><strong>An Investigation of Social Infrastructure and Social Capital in Hegang City, China</strong></div>
+    </div>
+    <div style="padding-left: 0; text-align: justify;">
+      In my month-long investigation of the shrinking city of Hegang, I focused on the existing social infrastructure of the old urban area and its ability to facilitate the formation of residents' social networks and social capital. These data provided the basis for my research papers [3], [6], and [7].
+    </div>
+    <div>
+      <strong><i style="color:#7b5aa6">Jul 2022 - Aug 2022</i></strong>
+    </div>
+    <div class="links"></div>
+  </div>
+</div>
+---
+
