@@ -22,10 +22,10 @@ During my graduate studies, I served multiple times as a reviewer for prestigiou
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="https://www.sciencedirect.com/journal/cities"><strong>Cities</strong></a></div>
+      <div class="title"><a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society"><strong>Cities</strong></a></div>
     </div> 
-    <div class="author"><strong>Reviewer</strong>, SSCI (JCR Q1 IF=6.7)</div>
-    <strong><i style="color:#7b5aa6">April 2024</i></strong>
+    <div class="author"><strong>Reviewer</strong>, SCIE (JCR Q1 IF=11.7)</div>
+    <strong><i style="color:#7b5aa6">July 2024</i></strong>
   </div>
 </div>
 ---
@@ -38,8 +38,8 @@ During my graduate studies, I served multiple times as a reviewer for prestigiou
     <div>
       <div class="title"><a href="https://www.sciencedirect.com/journal/urban-climate"><strong>Urban Climate</strong></a></div>
     </div> 
-    <div class="author"><strong>Reviewer</strong>, SCI (JCR Q1 IF=6.4)</div>
-    <strong><i style="color:#7b5aa6">May 2024</i></strong>
+    <div class="author"><strong>Reviewer</strong>, SCIE (JCR Q1 IF=6.4)</div>
+    <strong><i style="color:#7b5aa6">May 2024-Aug 2024</i></strong>
   </div>
 </div>
 ---
@@ -53,7 +53,21 @@ During my graduate studies, I served multiple times as a reviewer for prestigiou
       <div class="title"><a href="https://www.sciencedirect.com/journal/cities"><strong>Cities</strong></a></div>
     </div> 
     <div class="author"><strong>Reviewer</strong>, SSCI (JCR Q1 IF=6.7)</div>
-    <strong><i style="color:#7b5aa6">May 2024</i></strong>
+    <strong><i style="color:#7b5aa6">Apr 2024-May 2024</i></strong>
+  </div>
+</div>
+---
+
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 300px; margin-right: 40px; padding-left: 0;">
+    <img src="/images/cities2.png" class="teaser img-fluid z-depth-1" style="width: 300px; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><a href="https://www.sciencedirect.com/journal/applied-geography"><strong>Applied Geography</strong></a></div>
+    </div> 
+    <div class="author"><strong>Reviewer</strong>, SSCI (JCR Q1 IF=4.9)</div>
+    <strong><i style="color:#7b5aa6">July 2024-Aug 2024</i></strong>
   </div>
 </div>
 ---
