@@ -29,7 +29,7 @@ Journal Papers
       <div class="periodical"><em><strong>(Sustainable Cities and Society)</strong>, Volume 107, 15 July 2024, 105467.</em></div>
       <div class="links">
         <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
-        <strong><i style="color:#7b5aa6">SCI JCR Q1 (IF=11.7)</i></strong>
+        <strong><i style="color:#7b5aa6">SCIE JCR Q1 (IF=11.7)</i></strong>
       </div>
     </div>
   </div>
@@ -86,7 +86,7 @@ Journal Papers
       <div class="periodical"><em><strong>(Sustainable Cities and Society)</strong>, Under Review.</em></div>
       <div class="links">
         <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
-        <strong><i style="color:#7b5aa6">SCI JCR Q1 (IF=11.7)</i></strong>
+        <strong><i style="color:#7b5aa6">SCIE JCR Q1 (IF=11.7)</i></strong>
       </div>
     </div>
   </div>
@@ -105,7 +105,7 @@ Journal Papers
       <div class="periodical"><em><strong>(Urban Forestry & Urban Greening)</strong>, Volume 94, April 2024, 128267.</em></div>
       <div class="links">
         <a href="https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
-        <strong><i style="color:#7b5aa6">SSCI/SCI JCR Q1 (IF=6.4)</i></strong>
+        <strong><i style="color:#7b5aa6">SSCI/SCIE JCR Q1 (IF=6.4)</i></strong>
       </div>
     </div>
   </div>
@@ -124,7 +124,7 @@ Journal Papers
       <div class="periodical"><em><strong>(Urban Forestry & Urban Greening)</strong>, Volume 97, July 2024, 128375.</em></div>
       <div class="links">
         <a href="https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
-        <strong><i style="color:#7b5aa6">SSCI/SCI JCR Q1 (IF=6.4)</i></strong>
+        <strong><i style="color:#7b5aa6">SSCI/SCIE JCR Q1 (IF=6.4)</i></strong>
       </div>
     </div>
   </div>
