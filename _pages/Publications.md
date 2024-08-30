@@ -158,11 +158,11 @@ Journal Papers
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
       <div class="title"><a href="https://https://www.tandfonline.com/doi/full/10.1080/13467581.2024.2389162">[8] Effects of landform and building layout on outdoor thermal environment: A case study of mountain villages in severely cold regions</a></div>
-      <div class="author">Guangmeng Bian, <strong>Qi Cheng(Corresponding Author)</strong>, Gaoning Yan, Shiyan Sha, Meng Zhen</div>
+      <div class="author">Guangmeng Bian, <strong>Qi Cheng</strong>, Gaoning Yan, Shiyan Sha, Meng Zhen</div>
       <div class="periodical"><em><strong>(Journal of Asian Architecture and Building Engineering)</strong>, August 2024.</em></div>
       <div class="links">
         <a href="https://https://www.tandfonline.com/journals/tabe20" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
-        <strong><i style="color:#7b5aa6">SSCI/SCI JCI Q1 (IF=1.5)</i></strong>
+        <strong><i style="color:#7b5aa6">SCIE/AHCI JCI Q1 (IF=1.5)</i></strong>
       </div>
     </div>
   </div>
@@ -176,9 +176,9 @@ Journal Papers
 
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="https://kns.cnki.net/kcms2/article/abstract?v=f1ZyUc11mdpLmdmLn36iDuD3xMoT0DHr8HmGn7E80y97tPlyyn-t_rpAv6V_4nqKnsz8ykOZOclF3m3aNr6J8F2Ilw6F3FPoduiy2356-GrdER6bc4Krlt3-7LaHeQN_8N4o3oU6bJI=&uniplatform=NZKPT&language=CHS">[8] The Inspirations of Action-Oriented Social Infrastructure Regeneration Practices: A Case Study of Bayside City, Australia</a></div>
+      <div class="title"><a href="https://kns.cnki.net/kcms2/article/abstract?v=f1ZyUc11mdpLmdmLn36iDuD3xMoT0DHr8HmGn7E80y97tPlyyn-t_rpAv6V_4nqKnsz8ykOZOclF3m3aNr6J8F2Ilw6F3FPoduiy2356-GrdER6bc4Krlt3-7LaHeQN_8N4o3oU6bJI=&uniplatform=NZKPT&language=CHS">[9] The Inspirations of Action-Oriented Social Infrastructure Regeneration Practices: A Case Study of Bayside City, Australia</a></div>
       <div class="author">Ming Lu, Shiyan Sha, <strong>Qi Cheng</strong></div>
-      <div class="periodical"><em><strong>(Urban Planning International) In Chinese</strong>, Nov 2023.</em></div>
+      <div class="periodical"><em><strong>(Urban Planning International) In Chinese</strong>, November 2023.</em></div>
       <div class="links">
         <a href="https://navi.cnki.net/knavi/journals/GWCG/detail?uniplatform=NZKPT" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
         <strong><i style="color:#7b5aa6">CSSCI (IF=4.7)</i></strong>
@@ -195,7 +195,7 @@ Journal Papers
 
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="https://link.springer.com/article/10.1007/s11356-023-29130-3">[9] Effects of thermal environment and air quality on outdoor thermal comfort in urban parks of Tianjin, China</a></div>
+      <div class="title"><a href="https://link.springer.com/article/10.1007/s11356-023-29130-3">[10] Effects of thermal environment and air quality on outdoor thermal comfort in urban parks of Tianjin, China</a></div>
       <div class="author">Guangmeng Bian, Xiangyu Gao, Qishu Zou, <strong>Qi Cheng</strong>, Tianyi Sun, Shiyan Sha, Meng Zhen(Corresponding Author)</div>
       <div class="periodical"><em><strong>(Environmental Science and Pollution Research)</strong>, Volume 30, pages 97363–97376, (2023).</em></div>
       <div class="links">
