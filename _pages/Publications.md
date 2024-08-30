@@ -218,7 +218,7 @@ Conference Papers
     <div>
       <div class="title"><a href="">[1] Comparison of the spatial and temporal distribution characteristics of the "Informal Economy" in the context of multi-sector collaboration and governance</a></div>
       <div class="author"><strong>Qi Cheng</strong>, Shiyan Sha, Wen Cheng, Ming Lu</div>
-      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
+      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press,October 2023.</em></div>
       <div class="links">
         <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
         <strong><i style="color:#7b5aa6">Presentation</i></strong>
@@ -237,7 +237,7 @@ Conference Papers
     <div>
       <div class="title"><a href="">[2] Evaluation of urban community healing space demand and planning strategies from a health equity perspective</a></div>
       <div class="author"><strong>Qi Cheng</strong>, Shiyan Sha, Wen Cheng, Ming Lu</div>
-      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
+      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press,October 2023.</em></div>
       <div class="links">
         <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
         <strong><i style="color:#7b5aa6">Presentation</i></strong>
@@ -256,7 +256,7 @@ Conference Papers
     <div>
       <div class="title"><a href="">[3] Social infrastructure demand evaluation and planning policies of historical communities from a resilience perspective</a></div>
       <div class="author"><strong>Qi Cheng</strong>, Shiyan Sha, Wen Cheng, Ming Lu</div>
-      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
+      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press,October 2023.</em></div>
       <div class="links">
         <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
         <strong><i style="color:#7b5aa6">Presentation</i></strong>
@@ -275,7 +275,7 @@ Conference Papers
     <div>
       <div class="title"><a href="">[4] The thermal environmental characteristics and climate- responsive planning of "Rural Communities" in severe cold regions</a></div>
       <div class="author"><strong>Qi Cheng</strong>, Shiyan Sha, Wen Cheng, Ming Lu</div>
-      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
+      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press,October 2023.</em></div>
       <div class="links">
         <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
         <strong><i style="color:#7b5aa6">Presentation</i></strong>
@@ -294,7 +294,7 @@ Conference Papers
     <div>
       <div class="title"><a href="">[5] Characteristics of "Flash Mob" behavior and cultural transmission in public space based on an inclusive perspective- Evidence from Tianjin City, China</a></div>
       <div class="author">Shiyan Sha, <strong>Qi Cheng(Corresponding Author)</strong>, Ming Lu, Wen Cheng</div>
-      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
+      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press,October 2023.</em></div>
       <div class="links">
         <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
         <strong><i style="color:#7b5aa6">Participation</i></strong>
@@ -313,7 +313,7 @@ Conference Papers
     <div>
       <div class="title"><a href="">[6] Equity-oriented research on the characteristics of socio-spatial differentiation and governance strategies in shrinking cities</a></div>
       <div class="author">Shiyan Sha, <strong>Qi Cheng(Corresponding Author)</strong>, Ming Lu, Wen Cheng</div>
-      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
+      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press,October 2023.</em></div>
       <div class="links">
         <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
         <strong><i style="color:#7b5aa6">Participation</i></strong>
@@ -332,7 +332,7 @@ Conference Papers
     <div>
       <div class="title"><a href="">[7] Improving social resilience in shrinking cities through social infrastructure regeneration- A investigation from Hegang, China</a></div>
       <div class="author">Shiyan Sha, <strong>Qi Cheng(Corresponding Author)</strong>, Ming Lu, Wen Cheng</div>
-      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
+      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press,October 2023.</em></div>
       <div class="links">
         <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
         <strong><i style="color:#7b5aa6">Participation</i></strong>
@@ -351,7 +351,7 @@ Conference Papers
     <div>
       <div class="title"><a href="">[8] Spatial Distribution and Usage Characteristics of "Workers’ Harbor" from the Perspective of Opening and Sharing- A Case Study from Tianjin, China</a></div>
       <div class="author">Shiyan Sha, <strong>Qi Cheng(Corresponding Author)</strong>, Ming Lu, Wen Cheng</div>
-      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press ,Oct 2023.</em></div>
+      <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press,October 2023.</em></div>
       <div class="links">
         <a href="https://isocarp.org" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Congress</a>
         <strong><i style="color:#7b5aa6">Participation</i></strong>
