@@ -31,7 +31,6 @@ redirect_from:
       </div>
     </div>
   </div>
-</div>
 
 ---
 
@@ -51,7 +50,6 @@ redirect_from:
       </div>
     </div>
   </div>
-</div>
 
 ---
 
@@ -71,7 +69,6 @@ redirect_from:
       </div>
     </div>
   </div>
-</div>
 
 ---
 
@@ -94,7 +91,6 @@ redirect_from:
       </div>
     </div>
   </div>
-</div>
 
 ---
 
