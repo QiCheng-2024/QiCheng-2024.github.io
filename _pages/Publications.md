@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 <div class="col-sm-9" style="display: flex; align-items: center; padding-left: 0px; text-align: justify;">
-During my graduate studies, I have significantly contributed to the academic field through the publication of 17 research papers in prestigious international journals and conferences. Of these, I served as the first author or corresponding author for 6 SCI/SSCI papers, all of which were published in JCR Q1 journals, and for 8 international conference papers, some of which I also presented. Furthermore, I have actively participated as a co-author in the writing and revision of several other research papers.
+During my graduate studies, I have significantly contributed to the academic field through the publication of 20 research papers in prestigious international journals and conferences. Of these, I served as the first author or corresponding author for 6 SCI/SSCI papers, all of which were published in JCR Q1 journals, and for 8 international conference papers, some of which I also presented. Furthermore, I have actively participated as a co-author in the writing and revision of several other research papers.
  </div>
 ---
 
@@ -25,7 +25,7 @@ Journal Papers
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
       <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S2210670724002944">[1] Revealing the injustice and factors that affect the resilience responses of residents in the full period of heat waves</a></div>
-      <div class="author"><strong>Qi Cheng</strong>, Shiyan Sha (Corresponding Author)</div>
+      <div class="author"><strong>Qi Cheng</strong>, Shiyan Sha</div>
       <div class="periodical"><em><strong>(Sustainable Cities and Society)</strong>, Volume 107, 15 July 2024, 105467.</em></div>
       <div class="links">
         <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
@@ -44,7 +44,7 @@ Journal Papers
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
       <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0143622824000961">[2] Resisting the heat wave: Revealing inequalities in matching between heat exposure risk and healthcare services in a megacity</a></div>
-      <div class="author"><strong>Qi Cheng</strong>, Shiyan Sha(Corresponding Author)</div>
+      <div class="author"><strong>Qi Cheng</strong>, Shiyan Sha</div>
       <div class="periodical"><em><strong>(Applied Geography)</strong>, Volume 167, June 2024, 103291.</em></div>
       <div class="links">
         <a href="https://www.sciencedirect.com/journal/applied-geography" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
@@ -63,7 +63,7 @@ Journal Papers
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
       <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0143622823002187">[3] Revealing the heterogeneity of social capital in shrinking cities from a social infrastructure perspective: Evidence from Hegang, China</a></div>
-      <div class="author"><strong>Qi Cheng</strong>, Shiyan Sha(Corresponding Author), Wen Cheng</div>
+      <div class="author"><strong>Qi Cheng</strong>, Shiyan Sha, Wen Cheng</div>
       <div class="periodical"><em><strong>(Applied Geography)</strong>, Volume 159, October 2023, 103087.</em></div>
       <div class="links">
         <a href="https://www.sciencedirect.com/journal/applied-geography" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
@@ -82,7 +82,7 @@ Journal Papers
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
       <div class="title"><a href="">[4] Last defense in climate change: Assessing healthcare inequities in response to compound environmental risk in a megacity in Northern China</a></div>
-      <div class="author"><strong>Qi Cheng</strong>, Shiyan Sha(Corresponding Author)</div>
+      <div class="author"><strong>Qi Cheng</strong>, Shiyan Sha</div>
       <div class="periodical"><em><strong>(Sustainable Cities and Society)</strong>, Under Review.</em></div>
       <div class="links">
         <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
@@ -114,12 +114,31 @@ Journal Papers
 
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
+    <img src="/images/ufug2.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1618866724001730">[6] Determining the effects of green space usage on health inequalities among residents of shrinking cities based on a social capital perspective</a></div>
+      <div class="author">Shiyan Sha, <strong>Qi Cheng(Corresponding Author)</strong></div>
+      <div class="periodical"><em><strong>(Urban Forestry & Urban Greening)</strong>, Volume 97, July 2024, 128375.</em></div>
+      <div class="links">
+        <a href="https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
+        <strong><i style="color:#7b5aa6">SSCI/SCI JCR Q1 (IF=6.4)</i></strong>
+      </div>
+    </div>
+  </div>
+</div>
+---
+
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
     <img src="/images/CP9.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
   </div>
 
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0197397523002515">[6] Building a “reservoir of social resilience:” A strategy for social infrastructure regeneration in shrinking cities based on social network analysis</a></div>
+      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0197397523002515">[7] Building a “reservoir of social resilience:” A strategy for social infrastructure regeneration in shrinking cities based on social network analysis</a></div>
        <div class="author">Shiyan Sha, <strong>Qi Cheng</strong>, Ming Lu</div>
       <div class="periodical"><em><strong>(Habitat International)</strong>, Volume 143, January 2024, 102991.</em></div>
       <div class="links">
@@ -131,24 +150,6 @@ Journal Papers
 </div>
 ---
 
-<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
-  <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
-    <img src="/images/ufug2.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
-  </div>
-
-  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
-    <div>
-      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S1618866724001730">[7] Determining the effects of green space usage on health inequalities among residents of shrinking cities based on a social capital perspective</a></div>
-      <div class="author">Shiyan Sha, <strong>Qi Cheng(Corresponding Author)</strong></div>
-      <div class="periodical"><em><strong>(Urban Forestry & Urban Greening)</strong>, Volume 97, July 2024, 128375.</em></div>
-      <div class="links">
-        <a href="https://www.sciencedirect.com/journal/urban-forestry-and-urban-greening" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
-        <strong><i style="color:#7b5aa6">SSCI/SCI JCR Q1 (IF=6.4)</i></strong>
-      </div>
-    </div>
-  </div>
-</div>
----
 
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
