@@ -28,6 +28,7 @@ redirect_from:
     </div>
   </div>
 </div>
+---
 
 <!-- Repeat the corrected structure for all entries -->
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
@@ -40,6 +41,7 @@ redirect_from:
     <div><strong><i style="color:#7b5aa6">Jul 2024</i></strong></div>
   </div>
 </div>
+---
 
 <!-- Additional entries should follow the corrected format -->
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
@@ -52,3 +54,5 @@ redirect_from:
     <div><strong><i style="color:#7b5aa6">May 2024</i></strong></div>
   </div>
 </div>
+---
+
