@@ -22,7 +22,7 @@ During my graduate studies, I served multiple times as a reviewer for prestigiou
   </div>
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society"><strong>Cities</strong></a></div>
+      <div class="title"><a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society"><strong>Sustainable Cities and Society</strong></a></div>
     </div> 
     <div class="author"><strong>Reviewer</strong>, SCIE (JCR Q1 IF=11.7)</div>
     <strong><i style="color:#7b5aa6">July 2024</i></strong>
