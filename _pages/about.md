@@ -14,7 +14,7 @@ I am a current Master's student at the School of Architecture and Design (former
 <section class="container">
     <section class="row">
 <p class="highlight">
-    <a href=" ">QiCheng CV</a >
+    <a href="files/QiCheng CV.pdf">CV-QiCheng</a >
 </p >
     </section>
 </section>
