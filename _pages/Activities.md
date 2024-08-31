@@ -39,7 +39,7 @@ redirect_from:
       <div class="title"><strong>Participation in 2024 Summer Camp for Outstanding Students of School of Architecture, Tsinghua University</strong></div>
     </div>
     <div>
-      <i>I attended the Traditional Medicine and UN Sustainable Development Goals (Course TMSDG) Programme, with a principal focus on SDG3: Good Health and Well-being.</i>
+      <i>I attended in a summer program at Tsinghua University, where I explored the review and application of research methods in urban spatial studies.</i>
     </div>
     <div><strong><i style="color:#7b5aa6">Jul 2024</i></strong></div>
     <div class="links"></div>
@@ -54,7 +54,7 @@ redirect_from:
   </div>
   <div class="col-sm-9" style="flex: 1;">
     <div class="title"><strong>Participation in The Joint Workshop of Peking University, The University of Hong Kong, and South China University of Technology</strong></div>
-    <div><i>I attended the Traditional Medicine and UN Sustainable Development Goals (Course TMSDG) Programme, with a principal focus on SDG3: Good Health and Well-being.</i></div>
+    <div><i>I attended in a tri-university workshop, exploring future research directions and development prospects in the field of landscape architecture.</i></div>
     <div><strong><i style="color:#7b5aa6">Jul 2024</i></strong></div>
   </div>
 </div>
