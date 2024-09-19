@@ -236,7 +236,7 @@ Conference Papers
 
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="">[2] Evaluation of urban community healing space demand and planning strategies from a health equity perspective</div>
+      <div class="title">[2] Evaluation of urban community healing space demand and planning strategies from a health equity perspective</div>
       <div class="author"><strong>Qi Cheng</strong>, Shiyan Sha, Wen Cheng, Ming Lu</div>
       <div class="periodical"><em><strong>(ISOCARP World Planning Congress 59th)</strong>,In Press,October 2023.</em></div>
       <div class="links">
