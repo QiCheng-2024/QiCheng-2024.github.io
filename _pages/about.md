@@ -210,6 +210,137 @@ Education
 </body>
 </html>
 ---
+Workshops
+======
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Education</title>
+    <style>
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 15px;
+            border-radius: 8px;
+        }
+        .row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 5px;
+        }
+        .highlight {
+            font-weight: bold;
+            color: #132C33;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <section class="row">
+            <div>
+                <p class="highlight">
+                    <a href=" ">
+                        [1] The Joint Workshop of Peking University, The University of Hong Kong, and South China University of Technology
+                    </a >
+                </p >      
+            </div>
+            <div>
+                <p>Aug 2024</p >
+            </div>
+        </section>
+    </div>
+</body>
+</html>
+---
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Education</title>
+    <style>
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 15px;
+            border-radius: 8px;
+        }
+        .row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 5px;
+        }
+        .highlight {
+            font-weight: bold;
+            color: #132C33;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <section class="row">
+            <div>
+                <p class="highlight">
+                    <a href="https://www.arch.tsinghua.edu.cn/column/Home">
+                      [2] Summer Camp for Outstanding Students of School of Architecture, Tsinghua University
+                    </a >
+                </p >      
+            </div>
+            <div>
+                <p>Jul 2024</p >
+            </div>
+        </section>
+    </div>
+</body>
+</html>
+---
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Education</title>
+    <style>
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 15px;
+            border-radius: 8px;
+        }
+        .row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 5px;
+        }
+        .highlight {
+            font-weight: bold;
+            color: #132C33;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <section class="row">
+            <div>
+                <p class="highlight">
+                    <a href="https://www.sjtu.edu.cn">
+                      [3] SJTU (Shanghai Jiaotong University) SDG Summer Camp (Online)
+                    </a >
+                </p >      
+            </div>
+            <div>
+                <p>Jun 2024</p >
+            </div>
+        </section>
+    </div>
+</body>
+</html>
+---
 
 Skills and Softwares
 ======
