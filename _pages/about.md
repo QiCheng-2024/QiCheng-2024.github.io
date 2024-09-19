@@ -213,4 +213,4 @@ Education
 
 Skills and Softwares
 ======
-* Python; Java; Latex; GIS; SPSS; Geoda; Origin
+*  GIS; SPSS; Geoda; Origin; Python; Java; Latex
