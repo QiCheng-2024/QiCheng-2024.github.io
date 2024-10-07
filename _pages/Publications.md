@@ -38,12 +38,31 @@ Journal Papers
 
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
+    <img src="/images/seven.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
+  </div>
+
+  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
+    <div>
+      <div class="title">[2] Last defense in climate change: Assessing healthcare inequities in response to compound environmental risk in a megacity in Northern China</div>
+      <div class="author"><strong>Qi Cheng</strong>, Shiyan Sha</div>
+      <div class="periodical"><em><strong>(Sustainable Cities and Society)</strong>, Accept.</em></div>
+      <div class="links">
+        <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
+        <strong><i style="color:#7b5aa6">SCIE JCR Q1 (IF=11.7)</i></strong>
+      </div>
+    </div>
+  </div>
+</div>
+---
+
+<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
+  <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
     <img src="/images/AG2.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
   </div>
 
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0143622824000961">[2] Resisting the heat wave: Revealing inequalities in matching between heat exposure risk and healthcare services in a megacity</a></div>
+      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0143622824000961">[3] Resisting the heat wave: Revealing inequalities in matching between heat exposure risk and healthcare services in a megacity</a></div>
       <div class="author"><strong>Qi Cheng</strong>, Shiyan Sha</div>
       <div class="periodical"><em><strong>(Applied Geography)</strong>, Volume 167, June 2024, 103291.</em></div>
       <div class="links">
@@ -62,7 +81,7 @@ Journal Papers
 
   <div class="col-sm-9" style="flex: 1; padding-left: 0;">
     <div>
-      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0143622823002187">[3] Revealing the heterogeneity of social capital in shrinking cities from a social infrastructure perspective: Evidence from Hegang, China</a></div>
+      <div class="title"><a href="https://www.sciencedirect.com/science/article/pii/S0143622823002187">[4] Revealing the heterogeneity of social capital in shrinking cities from a social infrastructure perspective: Evidence from Hegang, China</a></div>
       <div class="author"><strong>Qi Cheng</strong>, Shiyan Sha, Wen Cheng</div>
       <div class="periodical"><em><strong>(Applied Geography)</strong>, Volume 159, October 2023, 103087.</em></div>
       <div class="links">
@@ -74,24 +93,7 @@ Journal Papers
 </div>
 ---
 
-<div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
-  <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
-    <img src="/images/seven.png" class="teaser img-fluid z-depth-1" style="width: 100%; height: auto; box-shadow: 5px 5px 15px rgba(0,0,0,0.5); border: 1px solid #CCCCCC; border-radius: 10px;">
-  </div>
 
-  <div class="col-sm-9" style="flex: 1; padding-left: 0;">
-    <div>
-      <div class="title">[4] Last defense in climate change: Assessing healthcare inequities in response to compound environmental risk in a megacity in Northern China</div>
-      <div class="author"><strong>Qi Cheng</strong>, Shiyan Sha</div>
-      <div class="periodical"><em><strong>(Sustainable Cities and Society)</strong>, Under Review.</em></div>
-      <div class="links">
-        <a href="https://www.sciencedirect.com/journal/sustainable-cities-and-society" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">About Journal</a>
-        <strong><i style="color:#7b5aa6">SCIE JCR Q1 (IF=11.7)</i></strong>
-      </div>
-    </div>
-  </div>
-</div>
----
 
 <div class="pub-row" style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 40px;">
   <div class="col-sm-3 abbr" style="flex: 0 0 200px; margin-right: 20px; padding-left: 0;">
